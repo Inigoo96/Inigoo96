@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1000&color=0050C8&center=true&vCenter=true&width=600&lines=Iñigo+Andrés+Laya;Software+Developer;Cybersecurity+%26+Cloud;Backend+%7C+AWS+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=0050C8&center=true&vCenter=true&width=600&lines=Software+Developer;Cybersecurity+%26+Cloud;Backend+%7C+AWS+%7C+Automation;Trainee+%40+KPMG+Espa%C3%B1a" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inigoaldev/)
-[![Email](https://img.shields.io/badge/inigoal96%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inigoal96@gmail.com)
-![Location](https://img.shields.io/badge/Zaragoza%2C%20España-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inigoal96@gmail.com)
+![Location](https://img.shields.io/badge/Zaragoza%2C%20Espa%C3%B1a-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=Inigoo96&style=for-the-badge&color=0050C8&label=VISITAS)
 
 </div>
@@ -86,22 +86,18 @@ Reto personal a largo plazo: trabajar algún día dentro de la **Fórmula 1** �
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
 <td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Inigoo96&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0050C8&icon_color=0050C8&text_color=c9d1d9&count_private=true&include_all_commits=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Inigoo96&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=0050C8&icon_color=0050C8&text_color=c9d1d9&count_private=true" />
 </td>
 <td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inigoo96&layout=compact&hide_border=true&bg_color=0d1117&title_color=0050C8&text_color=c9d1d9&langs_count=6)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inigoo96&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=0050C8&text_color=c9d1d9" />
 </td>
 </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Inigoo96&theme=dark&hide_border=true&background=0d1117&ring=0050C8&fire=0050C8&currStreakLabel=0050C8&sideLabels=8A9BBD&dates=8A9BBD&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Inigoo96&theme=dark&hide_border=true&background=0d1117&ring=0050C8&fire=0050C8&currStreakLabel=0050C8" />
 
 </div>
 
