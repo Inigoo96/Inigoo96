@@ -90,10 +90,6 @@ Reto personal a largo plazo: trabajar algún día dentro de la **Fórmula 1** �
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inigoo96&show_icons=true&theme=dark&hide_border=true)](https://github.com/Inigoo96)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inigoo96&layout=compact&theme=dark&hide_border=true)](https://github.com/Inigoo96)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Inigoo96&theme=dark&hide_border=true)](https://github.com/Inigoo96)
 
 </div>
